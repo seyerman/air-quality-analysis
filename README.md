@@ -1,6 +1,6 @@
 # air-quality-analysis
 
-*Warning: This repo has not a real project. This an organization example or template for other repos*
+*Warning: This repo has not a real project. This an example or template for other repos*
 
 **Air quality analysis in Colombia from 2011 to 2017**
 
